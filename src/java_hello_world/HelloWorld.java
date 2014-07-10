@@ -10,7 +10,7 @@ package java_hello_world;
 public class HelloWorld {
 
 	/**
-	 * @param args
+	 * @param args array of String
 	 */
 	public static void main(String[] args) {
 		System.out.println("Hello World!");
