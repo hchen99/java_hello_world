@@ -1,5 +1,5 @@
 /**
- * main
+ * master
  */
 package java_hello_world;
 
